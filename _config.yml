@@ -110,3 +110,5 @@ exclude:
   - CNAME
   - LICENSE
   - README.md
+
+theme: jekyll-theme-minimal
